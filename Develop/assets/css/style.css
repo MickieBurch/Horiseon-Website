@@ -4,13 +4,13 @@
     margin: 0;
 }
 
- 
-
+/*Background color*/
 body {
     background-color: #d9dcd6;
 }
 
 
+/* Header section styling */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -54,6 +54,7 @@ p {
 }
 
 
+
 .hero {
     height: 800px;
     width: 100%;
@@ -90,6 +91,8 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }
+
+/* Margin and positioning for the text in the body section */
 
 .benefit-lead {
     margin-bottom: 32px;
@@ -139,6 +142,8 @@ p {
     max-width: 150px;
 }
 
+/* positioning and styling for the SEO, online reputation, and social media marketing image and description section */
+
 .search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
@@ -147,6 +152,7 @@ p {
     background-color: #0072bb;
     color: #ffffff;
 }
+
 
 .online-reputation-management {
     margin-bottom: 20px;
